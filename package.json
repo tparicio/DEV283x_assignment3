@@ -1,0 +1,25 @@
+{
+  "name": "DEV283x_assignment3",
+  "version": "1.0.0",
+  "description": "edx Introduction to NodeJs assignment 3",
+  "main": "migrate-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev migrate-data"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tparicio/DEV283x_assignment3.git"
+  },
+  "keywords": [],
+  "author": "tparicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tparicio/DEV283x_assignment3/issues"
+  },
+  "homepage": "https://github.com/tparicio/DEV283x_assignment3#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mongodb": "2.2.31"
+  }
+}
